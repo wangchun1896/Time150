@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: caea22db6520ceb47b21239b2351348b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timeCapsule2D: {fileID: 171863659175532698, guid: d1866e301978ede43939e0883fe1652a, type: 3}
+  - timeCapsule3D: {fileID: 6883551544605272394, guid: 87a899e32ff186e4c856a097f25d892f, type: 3}
+  - timeCapsule3D1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
