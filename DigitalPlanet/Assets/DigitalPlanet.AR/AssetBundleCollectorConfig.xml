@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root Version="v2.0.0">
+  <Common ShowPackageView="True" ShowEditorAlias="False" UniqueBundleName="False" />
+  <Package PackageName="DefaultPackage" PackageDesc="" AutoAddressable="False" LocationToLower="False" IncludeAssetGUID="False" IgnoreDefaultType="True">
+    <Group GroupActiveRule="EnableGroup" GroupName="DigitalPlanet" GroupDesc="" AssetTags="">
+      <Collector CollectPath="Assets/DigitalPlanet.AR/DigitalPlanetBundles/Scenes" CollectGUID="dd1d18c096fcd6749a3c6f1e87a01cfd" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackDirectory" FilterRule="CollectScene" UserData="" AssetTags="" />
+      <Collector CollectPath="Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs" CollectGUID="dcc7edec758c13748867e058a9be38cd" CollectType="MainAssetCollector" AddressRule="AddressByFileName" PackRule="PackSeparately" FilterRule="CollectPrefab" UserData="" AssetTags="" />
+    </Group>
+  </Package>
+</root>

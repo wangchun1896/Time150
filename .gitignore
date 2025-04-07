@@ -1,0 +1,77 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.sln
+*.csproj
+*.pidb.meta
+*.sln.ide
+*.mdb
+*.pdb
+
+# Visual Studio caches
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Asset Store tools
+[Aa]sset[Ss]tore/
+[Aa]ssets/**/*.tmp
+
+# User settings files
+*.unityprefs
+
+# Ignore Cache files (often unnecessary)
+*.cache
+*.min.js
+
+# Prefab generated files
+*.prefab.meta
+
+# Backups
+*.bak
+*.swp
+*.swm
+
+# Ignore build artifact files
+*.apk
+*.aab
+*.app
+*.xcodeproj
+*.ipa
+*.dSYM/
+
+# Ignore any config files
+*.config
+
+# Ignore any logs
+*.log
+
+# Project Settings
+[Pp]roject[Ss]ettings/
+
+# Ignore other file formats that might not be necessary.
+*.exe
+*.dll
+*.pdb
+*.app
+*.xcodeproj
+*.sln
+
+# Uncomment if you're using Unity Collaborate (VCS)
+# [Aa]sset[Ss]tore/*
