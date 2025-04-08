@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 119804702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c485b9c83c0d4e7e6c0ac20ad5216a34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c485b9c83c0d4e7e6c0ac20ad5216a34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u80F6\u56CA/Materials/jiaonang_03.mat"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u80F6\u56CA/Materials/jiaonang03_B.png"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u80F6\u56CA/Materials/jiaonang03_M.png"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u80F6\u56CA/Materials/jiaonang03_E.png"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u80F6\u56CA/Materials/jiaonang03_N.png"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u80F6\u56CA/Materials/jiaonang_04.mat"
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/unityshaders.bundle

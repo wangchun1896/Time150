@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2685114883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dddcf334e04653d8dac374d92295454
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9dddcf334e04653d8dac374d92295454
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/perfab/shikongjiaonang02.prefab"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/perfab/shikongjiaonang.prefab"
+Dependencies:
+- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F.bundle"
+- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_materials.bundle"

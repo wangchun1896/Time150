@@ -1,0 +1,1033 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.1",
+        "UnityVersion": "2022.3.34f1c1",
+        "BuildDate": "2025/4/7 18:08:24",
+        "BuildSeconds": 29,
+        "BuildTarget": 13,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2025-04-07-1087",
+        "UniqueBundleName": false,
+        "EnableAddressable": false,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 186,
+        "MainAssetTotalCount": 3,
+        "AllBundleTotalCount": 36,
+        "AllBundleTotalSize": 39019687,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Scenes/Init.unity",
+            "AssetGUID": "a4257f23139872443a6d086a06d75240",
+            "AssetTags": [],
+            "MainBundleName": "assets_digitalplanet_ar_digitalplanetbundles_scenes.bundle",
+            "MainBundleSize": 67413,
+            "DependAssets": [
+                "Assets/DigitalPlanet.AR/Res/Texture/星主视角@3x.png"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/ARScene.prefab",
+            "AssetGUID": "409592778ce21b146aceb6a9ec63b584",
+            "AssetTags": [],
+            "MainBundleName": "assets_digitalplanet_ar_digitalplanetbundles_prefabs_arscene.bundle",
+            "MainBundleSize": 17468,
+            "DependAssets": [
+                "Assets/Scenes/Time/ar.asset",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/jiaonangboli2.FBX",
+                "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang_03.mat",
+                "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/perfab/jiaonang1.prefab",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/jiaonang1.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_B.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_M.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_E.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/jiaonangboli1.FBX",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_N.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang_04.mat"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/MainScene.prefab",
+            "AssetGUID": "05f007bf7e24b854788da80c1f62c426",
+            "AssetTags": [],
+            "MainBundleName": "assets_digitalplanet_ar_digitalplanetbundles_prefabs_mainscene.bundle",
+            "MainBundleSize": 145915,
+            "DependAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikongjiaonangceshi.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shanshuo.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/huoxing_B.jpg",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/diqiu_B.jpg",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1428@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1515@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shizi.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/处女座03.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/DigitalPlanet.AR/Res/Prafebs/main时光故事/timeStoryItem_.prefab",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/摩羯座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/双子座03.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen 1.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/射手座02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/huoxing_N.jpg",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/qipaoqiu.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/点赞容器.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo1.mat",
+                "Assets/Fonts/字体/HeiTi/simhei.ttf",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/狮子座02.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1514@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/zhubeijing.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/星座运势@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/输入框@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x 3.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/perfab/shikongjiaonang02.prefab",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikongjiaonang.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 398@2x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/perfab/shikongjiaonang.prefab",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikongjiaonang.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/qipaoqiu.mat",
+                "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/qiu.FBX",
+                "Assets/DigitalPlanet.AR/Res/Materials/Core/New Material.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/天蝎座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/天蝎座03.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1520@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/女@2x-.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_N.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/金牛座03.png",
+                "Assets/Fonts/字体/HeiTi/simhei.asset",
+                "Assets/DigitalPlanet.AR/Res/Texture/主页面/天蝎座01.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong02_B.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/双鱼座03.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/texiao01.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_E.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1518@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1397@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1512@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/联集 145（边框）@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/白羊座03.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_M.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/天秤座02.png",
+                "Assets/Settings/SampleSceneProfile.asset",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1519@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Prafebs/main时光故事/广告Item.prefab",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/容器 1437@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/qipao02.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/巨蟹座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/射手座03.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shanshuo.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/双鱼座02.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x 1.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/image.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1517@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/65465.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong_N.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/水瓶座02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/ReflectionProbe-3.exr",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/星座主@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/金牛座02.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/搜索@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/容器 1465@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x 2.png",
+                "Assets/ErbGameArt/AAA Projectiles/Prefabs/Projectiles(Speed)/Projectile 8.prefab",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/qipao01.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star.shadergraph",
+                "Assets/Scenes/ceshi/Global Volume Profile.asset",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/jinniu.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1525@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/箭头.png",
+                "Assets/DigitalPlanet.AR/Res/Prafebs/main时光故事/推荐星座Item.prefab",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/qipao03.FBX",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x 1.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1483@2x.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/diqiu.FBX",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1523@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_B.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1522@3x.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/Shader Graphs_zhushanshuo.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x 2.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong_B.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/20-30@2x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/diqiu.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/01.png",
+                "Assets/ErbGameArt/AAA Projectiles/Materials/Dagger2bcg.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1482@2x.png",
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Tex/头像98x98.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/符号.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/zhushanshuo.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/qipao01_B.png",
+                "Assets/Fonts/字体/msyh_SDF.asset",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen02.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/image@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong02_N.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1524@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1415@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1169@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/00.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1476@3x.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/ErbGameArt/AAA Projectiles/Materials/Trail22cg.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/狮子座03.png",
+                "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1399@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1521@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/矩形 630@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/双子座02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/qipao01.FBX",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 399@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/主页面/巨蟹座01.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 400@2x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/huoxing.mat",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/shikongjiaonang.FBX",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 401@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/image@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1474@3x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star02.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/DigitalPlanet.AR/Res/Materials/CircleMask/CircleMaskShader.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1531@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Tex/头像36X36.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/dizuo.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/Shader/CircleMaskShader.shader",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1532@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x-.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/45+@2x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo2.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/huoxing.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/qipao02.FBX",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/天秤座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/巨蟹座02.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/圆形 323.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/image(1).png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/容器 1434.png",
+                "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/主页面/摩羯座01.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/记录瞬间@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/白羊座02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1398@2x.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/zhubeijingxing.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/水瓶座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/处女座02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/lunpan.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen02.mat",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/女@2x.png",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1475@3x.png"
+            ]
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_digitalplanet_ar_digitalplanetbundles_scenes.bundle",
+            "FileName": "77d01c2defd2e68ea3df080ae35df2cb.bundle",
+            "FileHash": "77d01c2defd2e68ea3df080ae35df2cb",
+            "FileCRC": "131bdbae",
+            "FileSize": 67413,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Scenes/Init.unity"
+            ]
+        },
+        {
+            "BundleName": "assets_digitalplanet_ar_digitalplanetbundles_prefabs_arscene.bundle",
+            "FileName": "f953a49ef77f5257737827f1ae245656.bundle",
+            "FileHash": "f953a49ef77f5257737827f1ae245656",
+            "FileCRC": "345b00e4",
+            "FileSize": 17468,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_胶囊.bundle",
+                "share_assets_digitalplanet_ar_res_模型_胶囊_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_胶囊_perfab.bundle",
+                "share_assets_scenes_time.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/ARScene.prefab"
+            ]
+        },
+        {
+            "BundleName": "assets_digitalplanet_ar_digitalplanetbundles_prefabs_mainscene.bundle",
+            "FileName": "c513bff4dbe71ec079f61edfd42480ee.bundle",
+            "FileHash": "c513bff4dbe71ec079f61edfd42480ee",
+            "FileCRC": "ef1d7490",
+            "FileSize": 145915,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_materials_circlemask.bundle",
+                "share_assets_digitalplanet_ar_res_materials_core.bundle",
+                "share_assets_digitalplanet_ar_res_prafebs_main时光故事.bundle",
+                "share_assets_digitalplanet_ar_res_sprite_sprits_主场景ui.bundle",
+                "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui.bundle",
+                "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui_轮盘.bundle",
+                "share_assets_digitalplanet_ar_res_sprite_tex.bundle",
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_占位.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_texture_符号.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_perfab.bundle",
+                "share_assets_erbgameart_aaa projectiles_materials.bundle",
+                "share_assets_fonts_字体.bundle",
+                "share_assets_fonts_字体_heiti.bundle",
+                "share_assets_scenes_ceshi.bundle",
+                "share_assets_settings.bundle",
+                "share_assets_textmesh pro_fonts.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/MainScene.prefab"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture.bundle",
+            "FileName": "6ca05280bf531669df50cd629d3692f5.bundle",
+            "FileHash": "6ca05280bf531669df50cd629d3692f5",
+            "FileCRC": "5063c3e1",
+            "FileSize": 978186,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Texture/星主视角@3x.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_scenes_time.bundle",
+            "FileName": "23010bc9a2f957e33fbe68d2924d2672.bundle",
+            "FileHash": "23010bc9a2f957e33fbe68d2924d2672",
+            "FileCRC": "aa2d1c00",
+            "FileSize": 3821,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/Time/ar.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_胶囊.bundle",
+            "FileName": "0a3cff1af67bc6baff1ac039c492f65f.bundle",
+            "FileHash": "0a3cff1af67bc6baff1ac039c492f65f",
+            "FileCRC": "a29e0b03",
+            "FileSize": 56023,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_胶囊_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/jiaonangboli2.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/jiaonang1.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/jiaonangboli1.FBX"
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_core_editor_volume_icons.bundle",
+            "FileName": "fb0b4bd62813a0f773d12f453ac0cb75.bundle",
+            "FileHash": "fb0b4bd62813a0f773d12f453ac0cb75",
+            "FileCRC": "12d35e17",
+            "FileSize": 1242,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png",
+                "Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_胶囊_materials.bundle",
+            "FileName": "39be09e93479b40d7716e77812598349.bundle",
+            "FileHash": "39be09e93479b40d7716e77812598349",
+            "FileCRC": "ce87a2ec",
+            "FileSize": 536521,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang_03.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_B.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_M.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_E.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang03_N.png",
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/Materials/jiaonang_04.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_胶囊_perfab.bundle",
+            "FileName": "5c6fb5c73051613d272faf0106c01cd1.bundle",
+            "FileHash": "5c6fb5c73051613d272faf0106c01cd1",
+            "FileCRC": "0169e04c",
+            "FileSize": 3610,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_胶囊.bundle",
+                "share_assets_digitalplanet_ar_res_模型_胶囊_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/胶囊/perfab/jiaonang1.prefab"
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "1e4d132b9d8508da4e40becdcb292b63.bundle",
+            "FileHash": "1e4d132b9d8508da4e40becdcb292b63",
+            "FileCRC": "ac3bb31f",
+            "FileSize": 6949096,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shanshuo.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/qipaoqiu.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikongjiaonang.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star.shadergraph",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/zhushanshuo.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen02.shadergraph",
+                "Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen.shadergraph",
+                "Assets/DigitalPlanet.AR/Res/Shader/CircleMaskShader.shader"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+            "FileName": "56194f6feac98bc7245d5837658b8bf8.bundle",
+            "FileHash": "56194f6feac98bc7245d5837658b8bf8",
+            "FileCRC": "daf2bd56",
+            "FileSize": 4314274,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikongjiaonangceshi.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shizi.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo1.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikongjiaonang.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/qipaoqiu.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_N.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong02_B.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/02.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/texiao01.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_E.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_M.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shanshuo.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong_N.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/ReflectionProbe-3.exr",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo_B.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong_B.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/01.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/shikong02_N.png",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/Materials/dizuo2.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+            "FileName": "551db01cdb0b6629ae9467f4b5850833.bundle",
+            "FileHash": "551db01cdb0b6629ae9467f4b5850833",
+            "FileCRC": "6e0bd4d6",
+            "FileSize": 3730549,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/huoxing_B.jpg",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/diqiu_B.jpg",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen 1.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/huoxing_N.jpg",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/zhubeijing.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/qipao02.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/65465.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/qipao01.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/jinniu.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/Shader Graphs_zhushanshuo.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/diqiu.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/qipao01_B.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/00.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/huoxing.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star02.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/star.mat",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/zhubeijingxing.png",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/Materials/chuansongmen02.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui_轮盘.bundle",
+            "FileName": "7263e953434170b4f7370eea5afbcc62.bundle",
+            "FileHash": "7263e953434170b4f7370eea5afbcc62",
+            "FileCRC": "f49e62a0",
+            "FileSize": 61865,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1428@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1515@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1514@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1520@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1518@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1512@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1519@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1517@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1525@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1523@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1522@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1524@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/轮盘/容器 1521@3x.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_符号.bundle",
+            "FileName": "ef550bfa266514c3babff3e1ee861284.bundle",
+            "FileHash": "ef550bfa266514c3babff3e1ee861284",
+            "FileCRC": "3bd549a1",
+            "FileSize": 25963,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/处女座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/双子座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/天蝎座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/金牛座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/双鱼座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/白羊座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/巨蟹座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/射手座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/符号.mat",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/狮子座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/天秤座03.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/符号/水瓶座03.png"
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+            "FileName": "09172ac82a235b1909dc4a271501cdf2.bundle",
+            "FileHash": "09172ac82a235b1909dc4a271501cdf2",
+            "FileCRC": "ff714101",
+            "FileSize": 1275,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_prafebs_main时光故事.bundle",
+            "FileName": "ade110a7219fc7f5a832549245033de2.bundle",
+            "FileHash": "ade110a7219fc7f5a832549245033de2",
+            "FileCRC": "b0c1bd5d",
+            "FileSize": 272967,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_sprite_sprits_主场景ui.bundle",
+                "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui.bundle",
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_占位.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_fonts_字体.bundle",
+                "share_assets_textmesh pro_fonts.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Prafebs/main时光故事/timeStoryItem_.prefab",
+                "Assets/DigitalPlanet.AR/Res/Prafebs/main时光故事/广告Item.prefab",
+                "Assets/DigitalPlanet.AR/Res/Prafebs/main时光故事/推荐星座Item.prefab"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+            "FileName": "d27fe380a579e99d6c02d3f4d36c4d5c.bundle",
+            "FileHash": "d27fe380a579e99d6c02d3f4d36c4d5c",
+            "FileCRC": "312294b3",
+            "FileSize": 700988,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/摩羯座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/射手座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/狮子座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/天蝎座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/天秤座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/双鱼座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/水瓶座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/金牛座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/双子座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/巨蟹座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/白羊座02.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/星座页/处女座02.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_sprits_主场景ui.bundle",
+            "FileName": "f92f9828f77f2ac1502413ef7115699d.bundle",
+            "FileHash": "f92f9828f77f2ac1502413ef7115699d",
+            "FileCRC": "9f0890ea",
+            "FileSize": 374889,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/点赞容器.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x 3.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1397@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/image.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/箭头.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x 1.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1483@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器@3x 2.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1482@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1415@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1169@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1476@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1399@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/image@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1474@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1531@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1532@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/圆形 323.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/image(1).png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1398@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/主场景UI/容器 1475@3x.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_fonts_字体_heiti.bundle",
+            "FileName": "e42e6b196abee2c23627051be719fdf1.bundle",
+            "FileHash": "e42e6b196abee2c23627051be719fdf1",
+            "FileCRC": "41c42de2",
+            "FileSize": 9465574,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Fonts/字体/HeiTi/simhei.ttf",
+                "Assets/Fonts/字体/HeiTi/simhei.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui.bundle",
+            "FileName": "f5a3d1c838999f323567aa7f809cc539.bundle",
+            "FileHash": "f5a3d1c838999f323567aa7f809cc539",
+            "FileCRC": "ea71069a",
+            "FileSize": 59538,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/星座运势@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/输入框@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/女@2x-.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/联集 145（边框）@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/容器 1437@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x 1.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/星座主@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/搜索@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/容器 1465@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x 2.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/20-30@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/image@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/矩形 630@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/男@2x-.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/45+@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/容器 1434.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/记录瞬间@3x.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/星座场景UI/女@2x.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_星座场景_perfab.bundle",
+            "FileName": "269b94930ca61d3e357c86994a6c8c4a.bundle",
+            "FileHash": "269b94930ca61d3e357c86994a6c8c4a",
+            "FileCRC": "46ae082e",
+            "FileSize": 3108,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/perfab/shikongjiaonang02.prefab",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/perfab/shikongjiaonang.prefab"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_占位.bundle",
+            "FileName": "2a421a1d85eaca41f6696a941d845f72.bundle",
+            "FileHash": "2a421a1d85eaca41f6696a941d845f72",
+            "FileCRC": "3c6d34ea",
+            "FileSize": 4987,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 398@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 399@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 400@2x.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/占位/矩形 401@2x.png"
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "FileName": "72adca98d3f7208412df89da38779669.bundle",
+            "FileHash": "72adca98d3f7208412df89da38779669",
+            "FileCRC": "1e936e63",
+            "FileSize": 3023,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
+            "FileName": "1377f94f6d41f8937c9c3e285f6f932c.bundle",
+            "FileHash": "1377f94f6d41f8937c9c3e285f6f932c",
+            "FileCRC": "ab8f1404",
+            "FileSize": 373487,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_星座场景.bundle",
+            "FileName": "dd773d3f8a3912f369c141067a67bbb5.bundle",
+            "FileHash": "dd773d3f8a3912f369c141067a67bbb5",
+            "FileCRC": "e02b771b",
+            "FileSize": 35547,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/qiu.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/shikongjiaonang.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/dizuo.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/星座场景/lunpan.FBX"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_materials_core.bundle",
+            "FileName": "992e5285f300ffbb61290d20d257da55.bundle",
+            "FileHash": "992e5285f300ffbb61290d20d257da55",
+            "FileCRC": "1936d5ad",
+            "FileSize": 3025,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Materials/Core/New Material.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+            "FileName": "d92676fd2116a1aedd702e501caa9179.bundle",
+            "FileHash": "d92676fd2116a1aedd702e501caa9179",
+            "FileCRC": "41a6f347",
+            "FileSize": 90365,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Texture/主页面/天蝎座01.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/主页面/巨蟹座01.png",
+                "Assets/DigitalPlanet.AR/Res/Texture/主页面/摩羯座01.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_settings.bundle",
+            "FileName": "065e18ff61d0e4bd725c49d3f8fe8187.bundle",
+            "FileHash": "065e18ff61d0e4bd725c49d3f8fe8187",
+            "FileCRC": "208a8b63",
+            "FileSize": 3821,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Settings/SampleSceneProfile.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_erbgameart_aaa projectiles_prefabs_projectiles(speed).bundle",
+            "FileName": "ef67515da676768a959a95a4d11fc021.bundle",
+            "FileHash": "ef67515da676768a959a95a4d11fc021",
+            "FileCRC": "8920019f",
+            "FileSize": 29159,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "share_assets_erbgameart_aaa projectiles_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/ErbGameArt/AAA Projectiles/Prefabs/Projectiles(Speed)/Projectile 8.prefab"
+            ]
+        },
+        {
+            "BundleName": "share_assets_scenes_ceshi.bundle",
+            "FileName": "b26931d9d58130a4de1b72541ddd5176.bundle",
+            "FileHash": "b26931d9d58130a4de1b72541ddd5176",
+            "FileCRC": "9a76fa2e",
+            "FileSize": 4170,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Scenes/ceshi/Global Volume Profile.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_模型_主界面.bundle",
+            "FileName": "9b11e92277a9ce51982f030b17495600.bundle",
+            "FileHash": "9b11e92277a9ce51982f030b17495600",
+            "FileCRC": "3e38c6ea",
+            "FileSize": 105560,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/qipao03.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/diqiu.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/qipao01.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/huoxing.FBX",
+                "Assets/DigitalPlanet.AR/Res/模型/主界面/qipao02.FBX"
+            ]
+        },
+        {
+            "BundleName": "share_assets_erbgameart_aaa projectiles_materials.bundle",
+            "FileName": "3baf57cfa4e8b39a9801fa90117443ce.bundle",
+            "FileHash": "3baf57cfa4e8b39a9801fa90117443ce",
+            "FileCRC": "9c1c093f",
+            "FileSize": 3193,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/ErbGameArt/AAA Projectiles/Materials/Dagger2bcg.mat",
+                "Assets/ErbGameArt/AAA Projectiles/Materials/Trail22cg.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_tex.bundle",
+            "FileName": "706093e63761a1fad2661c7f43084ac2.bundle",
+            "FileHash": "706093e63761a1fad2661c7f43084ac2",
+            "FileCRC": "eaa103de",
+            "FileSize": 13505,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Sprite/Tex/头像98x98.png",
+                "Assets/DigitalPlanet.AR/Res/Sprite/Tex/头像36X36.png"
+            ]
+        },
+        {
+            "BundleName": "share_assets_fonts_字体.bundle",
+            "FileName": "6d7fef87e1bfd174e2713d2c2d75fb86.bundle",
+            "FileHash": "6d7fef87e1bfd174e2713d2c2d75fb86",
+            "FileCRC": "cd35ff3a",
+            "FileSize": 10349882,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/Fonts/字体/msyh_SDF.asset"
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_materials_circlemask.bundle",
+            "FileName": "723c4de0e0622835687b1b2fc5a6c0ae.bundle",
+            "FileHash": "723c4de0e0622835687b1b2fc5a6c0ae",
+            "FileCRC": "f860f2d3",
+            "FileSize": 2410,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+                "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+                "share_assets_digitalplanet_ar_res_模型_主界面_materials.bundle",
+                "share_assets_digitalplanet_ar_res_模型_星座场景_materials.bundle",
+                "unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/DigitalPlanet.AR/Res/Materials/CircleMask/CircleMaskShader.mat"
+            ]
+        },
+        {
+            "BundleName": "share_assets_textmesh pro_fonts.bundle",
+            "FileName": "e198fb9d051be697bf07835ce4d32e03.bundle",
+            "FileHash": "e198fb9d051be697bf07835ce4d32e03",
+            "FileCRC": "4b7b3ab3",
+            "FileSize": 227268,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

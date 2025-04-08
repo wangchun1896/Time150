@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1974563529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cb2e255fb92dd64a2b1336cb983865c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 891e2382023d323c61e005715467e62e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3cb2e255fb92dd64a2b1336cb983865c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a959a1b0b8414d4fb8a68bdc12d69ed, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ErbGameArt/AAA Projectiles/Prefabs/Projectiles(Speed)/Projectile 8.prefab
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_erbgameart_aaa
+  projectiles_materials.bundle

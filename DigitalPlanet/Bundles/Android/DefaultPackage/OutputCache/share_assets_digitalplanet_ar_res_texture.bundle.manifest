@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3368186465
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb502a910e5bad010b0d8ae6ed59f3cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bb502a910e5bad010b0d8ae6ed59f3cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u4E3B\u89C6\u89D2@3x.png"
+Dependencies: []

@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2611879353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b43d7cd0352820202ae4259a56d39cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7b43d7cd0352820202ae4259a56d39cb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1428@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1524@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1517@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1514@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1515@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1523@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1522@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1518@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1512@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1521@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1519@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1520@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F6E\u76D8/\u5BB9\u5668
+  1525@3x.png"
+Dependencies: []
