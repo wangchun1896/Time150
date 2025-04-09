@@ -1,18 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3681024354
+CRC: 1926706621
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 52dd55dcbfd5c9521df843cccdd82a4b
+    Hash: c727250c3f48c45c9d01e8bff6396dd9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0dc2b720108c735df46fdeaa4f58cb29
+    Hash: cf90b855974b258cc4497a442d95743c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 52dd55dcbfd5c9521df843cccdd82a4b
+    Hash: c727250c3f48c45c9d01e8bff6396dd9
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 4
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
@@ -28,6 +30,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a959a1b0b8414d4fb8a68bdc12d69ed, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 37a4239ae59f8c140b50f1da2e51b606, type: 3}
 - Class: 114
@@ -45,6 +49,10 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
@@ -77,9 +85,11 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - "Assets/DigitalPlanet.AR/Res/Prafebs/main\u65F6\u5149\u6545\u4E8B/timeStoryItem_.prefab"
+- "Assets/DigitalPlanet.AR/Res/Prafebs/main\u65F6\u5149\u6545\u4E8B/Projectile 8.prefab"
 - "Assets/DigitalPlanet.AR/Res/Prafebs/main\u65F6\u5149\u6545\u4E8B/\u5E7F\u544AItem.prefab"
 - "Assets/DigitalPlanet.AR/Res/Prafebs/main\u65F6\u5149\u6545\u4E8B/\u63A8\u8350\u661F\u5EA7Item.prefab"
 Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_materials_core.bundle
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_sprite_sprits_\u4E3B\u573A\u666Fui.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_sprite_sprits_\u661F\u5EA7\u573A\u666Fui.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_texture_\u5360\u4F4D.bundle"

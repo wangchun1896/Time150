@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2184598474
+CRC: 1745741232
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 15431d0d33c0a69fee977c5e285b50d4
+    Hash: 31edf2c492b58c41a1041cffcc121279
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5e762ccb57c4caaabbb5a4199ac82c23
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 15431d0d33c0a69fee977c5e285b50d4
+    Hash: 31edf2c492b58c41a1041cffcc121279
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -18,6 +18,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/DigitalPlanet.AR/Res/Materials/Core/Trail22cg.mat
+- Assets/DigitalPlanet.AR/Res/Materials/Core/Dagger2bcg.mat
 - Assets/DigitalPlanet.AR/Res/Materials/Core/New Material.mat
 Dependencies:
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/unityshaders.bundle

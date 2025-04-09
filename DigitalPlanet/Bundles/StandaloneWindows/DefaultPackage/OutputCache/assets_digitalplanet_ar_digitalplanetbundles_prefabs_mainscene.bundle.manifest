@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3836727022
+CRC: 294206134
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7defdc8f3b89af26294cdd17d6f266f
+    Hash: be5b2e6fcde1da6133834d377819fd67
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52ab68c23438a04274f45c452eb552f2
+    Hash: 9bc52e1750eb83e2aabf2453e4ab7859
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e7defdc8f3b89af26294cdd17d6f266f
+    Hash: be5b2e6fcde1da6133834d377819fd67
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -248,8 +248,6 @@ Dependencies:
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_materials.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_perfab.bundle"
-- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_erbgameart_aaa
-  projectiles_materials.bundle
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_fonts_\u5B57\u4F53.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_fonts_\u5B57\u4F53_heiti.bundle"
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_scenes_ceshi.bundle
