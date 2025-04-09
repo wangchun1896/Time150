@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3942264968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f935c5a63088f579437b00708002a95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4f935c5a63088f579437b00708002a95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/diqiu.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/huoxing.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/qipao02.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/qipao01.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/qipao03.FBX"
+Dependencies:
+- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u4E3B\u754C\u9762_materials.bundle"

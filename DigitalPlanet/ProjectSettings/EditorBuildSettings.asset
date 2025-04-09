@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Time/Splash.unity
     guid: e59f810efa074424fb0dfbfce4a479e4
-  - enabled: 0
-    path: Assets/DigitalPlanet.AR/DigitalPlanetBundles/Scenes/Init.unity
-    guid: a4257f23139872443a6d086a06d75240
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9a26fdaf7aa84af45bc7c3feab4ce38a, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9705e8591a2b20e43aaa15135162fa5f, type: 2}

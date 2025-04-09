@@ -3,6 +3,7 @@ using UnityEngine.Networking;
 using System.Collections;
 using System.IO;
 using System;
+using YooAsset;
 
 namespace TimeStar.DigitalPlant
 {
@@ -11,7 +12,9 @@ namespace TimeStar.DigitalPlant
         private AssetBundle loadedAssetBundle;
         public string abName = "mainscene";
         public GameObject prefab;
-
+        public UnityEngine.Object sceneObj;
+        private string scenePath;
+        public GameObject loadBG;
         public static AssetBundleLoader Instance { get; set; }
 
         private void Awake()
@@ -19,13 +22,8 @@ namespace TimeStar.DigitalPlant
             if (Instance == null)
             {
                 Instance = this;
-                //DontDestroyOnLoad(gameObject);
                 Debug.Log("@AssetBundleLoader initialized.");
             }
-            //else
-            //{
-            //    Destroy(gameObject);
-            //}
         }
 
 #if UNITY_EDITOR
@@ -33,11 +31,13 @@ namespace TimeStar.DigitalPlant
         {
             if (GUILayout.Button("加载"))
             {
-                DownloadAssetBundle(abName);
+                //DownloadAssetBundle(abName);
+                DownloadAssetBundle_YoYo(abName);
             }
             if (GUILayout.Button("卸载"))
             {
-                UnloadAndReleaseResources();
+               // UnloadAndReleaseResources();
+                UnloadAndReleaseResources_YoYo();
             }
         }
 #endif
@@ -52,12 +52,177 @@ namespace TimeStar.DigitalPlant
             return "PC";
 #endif
         }
+        public void DownloadAssetBundle_YoYo_Test(string ab_name)
+        {
+            abName = ab_name;
+            switch (abName)
+            {
+                case "mainscene":
+                    scenePath = "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/MainScene.prefab";
+                    break;
+                case "arscene":
+                    scenePath = "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/ARScene.prefab";
+                    break;
+                default:
+                    break;
+            }
+            //loadBG = GameObject.Find("CanvasInit");
+            //if (loadBG != null)
+            //{
+            //    loadBG.SetActive(false);
+            //}
+            StartCoroutine(DownloadAssetBundleCoroutine_YoYo(ab_name));
+        }
+        public void DownloadAssetBundle_YoYo(string ab_name)
+        {
+            abName = ab_name;
+            switch (abName)
+            {
+                case "mainscene":
+                    scenePath = "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/MainScene.prefab";
+                    break;
+                case "arscene":
+                    scenePath = "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/ARScene.prefab";
+                    break;
+                default:
+                    break;
+            }
+            loadBG = GameObject.Find("CanvasInit");
+            if (loadBG != null)
+            {
+                loadBG.SetActive(false);
+            }
+            StartCoroutine(DownloadAssetBundleCoroutine_YoYo(ab_name));
+        }
+        private IEnumerator DownloadAssetBundleCoroutine_YoYo(string ab_name)
+        {
+            var package = YooAssets.TryGetPackage("DefaultPackage");
+            OfflinePlayModeParameters initParameters = new OfflinePlayModeParameters();
+            if (package == null)//没获取到就创建
+            {
+                Debug.Log("TryGetPackage:没获取到DefaultPackage,开始创建DefaultPackage");
+                YooAssets.CreatePackage("DefaultPackage");
+                YooAssets.SetDefaultPackage(package);
+                #if UNITY_ANDROID
+                        string uri_UNITY_ANDROID = "jar:file://" + Application.dataPath + "!/assets/" + "/yoo/DefaultPackage";
+                        initParameters.BuildinRootDirectory= uri_UNITY_ANDROID;
+                #elif UNITY_IOS
+                        string uri_UNITY_IOS = Application.streamingAssetsPath + "/yoo/DefaultPackage"  ;
+                         initParameters.BuildinRootDirectory= uri_UNITY_IOS;
+                #else
+                            if (package.InitializeStatus == EOperationStatus.None)
+                                yield return package.InitializeAsync(initParameters);
+                #endif
+                            AssetHandle sceneHandle = YooAssets.LoadAssetSync<GameObject>(scenePath);
+                            var go = sceneHandle.AssetObject;
+                            sceneObj= Instantiate(go);
+                            sceneHandle.Release();
+                            Debug.Log("sceneHandle：" + sceneHandle.Status);
+            }
+            else
+            {
+                AssetHandle sceneHandle = YooAssets.LoadAssetSync<GameObject>(scenePath);
+                var go = sceneHandle.AssetObject;
+                sceneObj = Instantiate(go);
+                sceneHandle.Release();
+                Debug.Log("sceneHandle：" + sceneHandle.Status);
+            }
+          
+//#if UNITY_ANDROID
+//        using (UnityWebRequest uwr = UnityWebRequestAssetBundle.GetAssetBundle(uri))
+//        {
+//            yield return uwr.SendWebRequest();
+
+//            if (uwr.result != UnityWebRequest.Result.Success)
+//            {
+//                Debug.LogError("加载AssetBundle失败: " + uwr.error);
+//            }
+//            else
+//            {
+//                loadedAssetBundle = DownloadHandlerAssetBundle.GetContent(uwr);
+//                Debug.Log($"成功加载AssetBundle: {loadedAssetBundle.name}");
+
+//                // 在这里可以使用loadedAssetBundle来加载具体的资源，例如：
+//                GameObject prefab = loadedAssetBundle.LoadAsset<GameObject>(ab_name);
+//                if (prefab != null)
+//                {
+//                    Instantiate(prefab);
+//                }
+//                else
+//                {
+//                    Debug.Log($"未能从AssetBundle中加载名为 {ab_name} 的预制体");
+//                }
+//            }
+//        }
+//#endif
+//#if UNITY_IOS || UNITY_EDITOR
+//            try
+//            {
+//                loadedAssetBundle = AssetBundle.LoadFromFile(uri);
+//                if (loadedAssetBundle != null)
+//                {
+//                    Debug.Log($"@@加载成功Loaded AssetBundle: {loadedAssetBundle.name}");
+//                    GameObject loadPrefab = loadedAssetBundle.LoadAsset<GameObject>(ab_name);
+//                    prefab = Instantiate(loadPrefab);
+//                }
+//                else
+//                {
+//                    Debug.LogError("@@@加载失败");
+//                }
+//            }
+//            catch (System.Exception e)
+//            {
+//                Debug.Log("@异常@" + e.Message);
+//            }
+//#endif
+
+            yield return null;
+        }
+        public void UnloadAndReleaseResources_YoYo_Test()
+        {
+           // if (loadBG != null) loadBG.SetActive(true);
+            // 销毁实例化的 prefab（如果存在）
+            if (sceneObj != null)
+            {
+                DestroyImmediate(sceneObj);
+                sceneObj = null; // 清空 prefab 引用
+            }
+            // 卸载 AssetBundle
+            var package = YooAssets.TryGetPackage("DefaultPackage");
+            if (package != null && GameInfo.IsDebug == "true")
+            {
+
+                package.TryUnloadUnusedAsset(scenePath);
+                Debug.Log("AssetBundle unloaded and memory released.");
+            }
+           
+        }
+        public void UnloadAndReleaseResources_YoYo(Action callback = null)
+        {
+            if (loadBG != null) loadBG.SetActive(true);
+            // 销毁实例化的 prefab（如果存在）
+            if (sceneObj != null)
+            {
+                DestroyImmediate(sceneObj);
+                sceneObj = null; // 清空 prefab 引用
+            }
+            // 卸载 AssetBundle
+            var package = YooAssets.TryGetPackage("DefaultPackage");
+            if (package != null&&GameInfo.IsDebug=="true")
+            {
+               
+                package.TryUnloadUnusedAsset(scenePath);
+                Debug.Log("AssetBundle unloaded and memory released.");
+            }
+            UnloadUnusedResources(callback);
+        }
+      
+
         // 下载 AssetBundle
         public void DownloadAssetBundle(string ab_name)
         {
             StartCoroutine(DownloadAssetBundleCoroutine(ab_name));
         }
-
         private IEnumerator DownloadAssetBundleCoroutine(string ab_name)
         {
             string uri = "";
@@ -121,7 +286,6 @@ namespace TimeStar.DigitalPlant
 
             yield return null;
         }
-
         ///卸载加载的 AssetBundle 
         public void UnloadAndReleaseResources(Action callback = null)
         {

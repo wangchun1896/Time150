@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3780304571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b551927c66b153cb597184cc4da220be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f9fba26cbb38215f317d1fd6b1954a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b551927c66b153cb597184cc4da220be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/shikongjiaonang.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/lunpan.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/dizuo.FBX"
+- "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/qiu.FBX"
+Dependencies:
+- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_materials.bundle"
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/unityshaders.bundle

@@ -75,3 +75,8 @@ Thumbs.db
 
 # Uncomment if you're using Unity Collaborate (VCS)
 # [Aa]sset[Ss]tore/*
+
+# Ignore specified folders
+APK/
+AndroidProject_tt/
+Xcode_tt/

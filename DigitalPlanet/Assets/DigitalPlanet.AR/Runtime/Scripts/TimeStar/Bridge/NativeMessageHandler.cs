@@ -12,37 +12,37 @@ namespace TimeStar.Bridge
         private static NativeMessageHandler Instance { get; set; }
         public SceneLoadNotifier sceneLoadNotifier;
 #if UNITY_EDITOR
-        private void OnGUI()
-        {
-            if(GUILayout.Button("asdlfa埃里克森的分厘卡即使对方"))
-            {
-                string ss = "{\"page_size\":10," +
-                       "\"page_total\":0," +
-                       "\"hits_total\":0," +
-                       "\"is_join\":1," +
-                       "\"attend\":1," +
-                       "\"cid\":\"587290a7fec1767301d5bf9e2652651b\"," +
-                       "\"oneself\":1," +
-                       "\"description\":\"这是一个记忆胶囊，有内容优优文案哈哈哈哈哈\"," +
-                       "\"fail_reason\":\"\"," +
-                       "\"obj_address\":{" +
-                       "\"longitude\":116.46711730957031," +
-                       "\"latitude\":39.95938491821289," +
-                       "\"province\":\"北京市\"," +
-                       "\"province_code\":\"110000\"," +
-                       "\"city\":\"北京市\"," +
-                       "\"city_code\":\"1101\"," +
-                       "\"address_name\":\"海航大厦\"," +
-                       "\"address\":\"北京市朝阳区霄云路甲26号\"," +
-                       "\"address_tag\":\"房地产;写字楼\"" +
-                       "}}";
-                GameInfo.capsule_data =ss;
-                GameInfo.user_location = "{\"longitude\":\"116.46711730957031\",\"latitude\":\"39.95938491821289\"}";
-                if (GameObject.Find("CanvasInit") != null)
-                    GameObject.Find("CanvasInit").SetActive(false);
-                AssetBundleLoader.Instance.DownloadAssetBundle("arscene");
-            }
-        }
+        //private void OnGUI()
+        //{
+        //    if(GUILayout.Button("asdlfa埃里克森的分厘卡即使对方"))
+        //    {
+        //        string ss = "{\"page_size\":10," +
+        //               "\"page_total\":0," +
+        //               "\"hits_total\":0," +
+        //               "\"is_join\":1," +
+        //               "\"attend\":1," +
+        //               "\"cid\":\"587290a7fec1767301d5bf9e2652651b\"," +
+        //               "\"oneself\":1," +
+        //               "\"description\":\"这是一个记忆胶囊，有内容优优文案哈哈哈哈哈\"," +
+        //               "\"fail_reason\":\"\"," +
+        //               "\"obj_address\":{" +
+        //               "\"longitude\":116.46711730957031," +
+        //               "\"latitude\":39.95938491821289," +
+        //               "\"province\":\"北京市\"," +
+        //               "\"province_code\":\"110000\"," +
+        //               "\"city\":\"北京市\"," +
+        //               "\"city_code\":\"1101\"," +
+        //               "\"address_name\":\"海航大厦\"," +
+        //               "\"address\":\"北京市朝阳区霄云路甲26号\"," +
+        //               "\"address_tag\":\"房地产;写字楼\"" +
+        //               "}}";
+        //        GameInfo.capsule_data =ss;
+        //        GameInfo.user_location = "{\"longitude\":\"116.46711730957031\",\"latitude\":\"39.95938491821289\"}";
+        //        if (GameObject.Find("CanvasInit") != null)
+        //            GameObject.Find("CanvasInit").SetActive(false);
+        //        AssetBundleLoader.Instance.DownloadAssetBundle("arscene");
+        //    }
+        //}
 #endif
         private void Awake()
         {
@@ -269,19 +269,6 @@ namespace TimeStar.Bridge
 
 
        
-        private void OnMainSceneLoaded()
-        {
-            // 这里写加载完成后的逻辑
-            Debug.Log("Main加载完毕,开始加载场景资源!");
-            // 加载AB资源
-            AssetBundleLoader.Instance.DownloadAssetBundle("mainscene");
-        }
-        private void OnArSceneLoaded()
-        {
-            // 这里写加载完成后的逻辑
-            Debug.Log("AR加载完毕,开始加载场景资源!");
-            // 加载AB资源
-            AssetBundleLoader.Instance.DownloadAssetBundle("arscene");
-        }
+        
     }
 }

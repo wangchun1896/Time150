@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1757566841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e9414b7bd54b7b7e1ebaaabfecf4aa4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3e9414b7bd54b7b7e1ebaaabfecf4aa4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Texture/\u4E3B\u9875\u9762/\u5DE8\u87F9\u5EA701.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u4E3B\u9875\u9762/\u5929\u874E\u5EA701.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u4E3B\u9875\u9762/\u6469\u7FAF\u5EA701.png"
+Dependencies: []

@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2206068208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9543f06f43ad99cb065c659e5dd68ff8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9543f06f43ad99cb065c659e5dd68ff8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/image@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u5973@2x-.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u7537@2x
+  1.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u7537@2x-.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/45+@2x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u661F\u5EA7\u8FD0\u52BF@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8F93\u5165\u6846@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u5BB9\u5668
+  1434.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8BB0\u5F55\u77AC\u95F4@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/20-30@2x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u661F\u5EA7\u4E3B@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u641C\u7D22@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u8054\u96C6
+  145\uFF08\u8FB9\u6846\uFF09@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u77E9\u5F62
+  630@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u5BB9\u5668
+  1465@2x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u7537@2x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u7537@2x
+  2.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u5BB9\u5668
+  1437@3x.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Sprits/\u661F\u5EA7\u573A\u666FUI/\u5973@2x.png"
+Dependencies: []

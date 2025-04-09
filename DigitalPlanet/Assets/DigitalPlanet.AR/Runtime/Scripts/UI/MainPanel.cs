@@ -15,6 +15,8 @@ namespace TimeStar.DigitalPlant
         }
         public IEnumerator AsyOnBackButtonClick()
         {
+            if (AssetBundleLoader.Instance.loadBG != null)
+                AssetBundleLoader.Instance.loadBG.SetActive(true);
 #if UNITY_IOS
         if (AssetBundleLoader.Instance != null)
         {

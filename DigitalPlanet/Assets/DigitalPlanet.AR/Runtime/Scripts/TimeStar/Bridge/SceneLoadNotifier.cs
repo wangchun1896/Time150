@@ -8,8 +8,8 @@ namespace TimeStar.Bridge
 {
     public class SceneLoadNotifier : MonoBehaviour
     {
-        [SerializeField]
-        private float notificationDelay = 1f; // 延迟时间，默认1秒
+       
+        public float notificationDelay = 1f; // 延迟时间，默认1秒
 
         private Coroutine timerCoroutine;
         private bool isTimerRunning;

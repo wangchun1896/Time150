@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2184598474
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15431d0d33c0a69fee977c5e285b50d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 15431d0d33c0a69fee977c5e285b50d4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Materials/Core/New Material.mat
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/unityshaders.bundle
