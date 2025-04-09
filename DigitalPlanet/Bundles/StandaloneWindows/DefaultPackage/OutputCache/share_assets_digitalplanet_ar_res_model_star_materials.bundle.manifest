@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1190023689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f17cb8fa6e78011ebeb34c32d85cb4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c596fd550b9396fde04e2f045bed6b8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1f17cb8fa6e78011ebeb34c32d85cb4a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shanshuo.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/dizuo1.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/dizuo_N.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikong02_N.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/dizuo2.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikong_N.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikong02_B.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/02.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shizi.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/dizuo_B.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/texiao01.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/01.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/ReflectionProbe-3.exr
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/dizuo_E.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikong_B.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/dizuo_M.png
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikongjiaonang.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/qipaoqiu.mat
+- Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikongjiaonangceshi.mat
+Dependencies:
+- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_texture_\u661F\u5EA7\u9875.bundle"
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/unityshaders.bundle

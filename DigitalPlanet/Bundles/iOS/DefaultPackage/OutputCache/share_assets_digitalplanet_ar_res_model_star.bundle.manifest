@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2704338260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c258b75eb2a0d1316d7bb1fd5b445c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f9fba26cbb38215f317d1fd6b1954a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c258b75eb2a0d1316d7bb1fd5b445c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Model/Star/shikongjiaonang.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Star/lunpan.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Star/dizuo.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Star/qiu.FBX
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_star_materials.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/unityshaders.bundle

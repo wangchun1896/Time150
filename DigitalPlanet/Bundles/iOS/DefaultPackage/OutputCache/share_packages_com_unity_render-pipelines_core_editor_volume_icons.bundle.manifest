@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2608929761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 878ca669687a9bfee66881985d6cdc94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 878ca669687a9bfee66881985d6cdc94
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png
+- Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png
+Dependencies: []

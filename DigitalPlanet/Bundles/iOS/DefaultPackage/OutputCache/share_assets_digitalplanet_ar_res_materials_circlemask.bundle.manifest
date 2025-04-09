@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3263221663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97d1cb1b043456bfd224227f16457b5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97d1cb1b043456bfd224227f16457b5c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Materials/CircleMask/CircleMaskShader.mat
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/unityshaders.bundle

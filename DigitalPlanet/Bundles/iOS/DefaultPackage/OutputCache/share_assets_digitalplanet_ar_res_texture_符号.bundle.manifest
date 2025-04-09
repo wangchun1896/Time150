@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1705784599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e8c0a885e150a78c9e1ff4eacec6611
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e8c0a885e150a78c9e1ff4eacec6611
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u5929\u874E\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u91D1\u725B\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u5929\u79E4\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u53CC\u9C7C\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u72EE\u5B50\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u5904\u5973\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u767D\u7F8A\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u6C34\u74F6\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u53CC\u5B50\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u7B26\u53F7.mat"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u5DE8\u87F9\u5EA703.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u7B26\u53F7/\u5C04\u624B\u5EA703.png"
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/unityshaders.bundle

@@ -1,0 +1,574 @@
+{
+    "ShaderTotalCount": 28,
+    "VariantTotalCount": 46,
+    "ShaderVariantInfos": [
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/BlitCopy",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Legacy Shaders/VertexLit",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 8,
+                    "Keywords": [
+                        "SHADOWS_DEPTH"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Skybox/Procedural",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        "_SUNDISK_SIMPLE"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Skybox/Panoramic",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-GUITextureClip",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-GUITextureClipText",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-GUITexture",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-GUITextureBlit",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-GUIRoundedRect",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-GUIRoundedRectWithColorPerBorder",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/Internal-UIRAtlasBlitCopy",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Resources/unity_builtin_extra",
+            "ShaderName": "Hidden/UIElements/EditorUIE",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/CopyDepth.shader",
+            "ShaderName": "Hidden/Universal Render Pipeline/CopyDepth",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        "_OUTPUT_DEPTH"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderLdr.shader",
+            "ShaderName": "Hidden/Universal Render Pipeline/LutBuilderLdr",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/UberPost.shader",
+            "ShaderName": "Hidden/Universal Render Pipeline/UberPost",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader",
+            "ShaderName": "Hidden/Universal Render Pipeline/FallbackError",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/CoreBlit.shader",
+            "ShaderName": "Hidden/Universal/CoreBlit",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+            "ShaderName": "Universal Render Pipeline/Lit",
+            "ShaderVariantCount": 16,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 8,
+                    "Keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "PassType": 8,
+                    "Keywords": [
+                        "_ALPHATEST_ON"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_ALPHATEST_ON",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_METALLICSPECGLOSSMAP",
+                        "_NORMALMAP",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_ALPHATEST_ON",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_ALPHATEST_ON",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT",
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_ALPHATEST_ON",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_METALLICSPECGLOSSMAP",
+                        "_NORMALMAP",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_METALLICSPECGLOSSMAP",
+                        "_NORMALMAP",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT",
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_NORMALMAP",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_EMISSION",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_METALLICSPECGLOSSMAP",
+                        "_NORMALMAP",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT",
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_NORMALMAP",
+                        "_RECEIVE_SHADOWS_OFF",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT",
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT",
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ALPHATEST_ON"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Main/Materials/chuansongmen02.shadergraph",
+            "ShaderName": "Shader Graphs/chuansongmen02",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Shader/CircleMaskShader.shader",
+            "ShaderName": "Custom/CircleMaskShader",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Main/Materials/chuansongmen.shadergraph",
+            "ShaderName": "Shader Graphs/chuansongmen",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Main/Materials/star.shadergraph",
+            "ShaderName": "Shader Graphs/star",
+            "ShaderVariantCount": 2,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 8,
+                    "Keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT",
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Star/Materials/qipaoqiu.shadergraph",
+            "ShaderName": "Shader Graphs/qipaoqiu",
+            "ShaderVariantCount": 2,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 8,
+                    "Keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shanshuo.shadergraph",
+            "ShaderName": "Shader Graphs/shanshuo",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Main/Materials/zhushanshuo.shadergraph",
+            "ShaderName": "Shader Graphs/zhushanshuo",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Assets/DigitalPlanet.AR/Res/Model/Star/Materials/shikongjiaonang.shadergraph",
+            "ShaderName": "Shader Graphs/shikongjiaonang",
+            "ShaderVariantCount": 2,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 8,
+                    "Keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "PassType": 13,
+                    "Keywords": [
+                        "_ADDITIONAL_LIGHTS",
+                        "_MAIN_LIGHT_SHADOWS",
+                        "_REFLECTION_PROBE_BLENDING",
+                        "_REFLECTION_PROBE_BOX_PROJECTION",
+                        "_SHADOWS_SOFT"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader",
+            "ShaderName": "Universal Render Pipeline/Unlit",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        "_SURFACE_TYPE_TRANSPARENT"
+                    ]
+                }
+            ]
+        },
+        {
+            "AssetPath": "Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader",
+            "ShaderName": "Hidden/Core/FallbackError",
+            "ShaderVariantCount": 1,
+            "ShaderVariantElements": [
+                {
+                    "PassType": 0,
+                    "Keywords": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

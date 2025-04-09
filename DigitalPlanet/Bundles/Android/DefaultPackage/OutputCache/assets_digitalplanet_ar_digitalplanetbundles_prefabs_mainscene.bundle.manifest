@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1801589496
+CRC: 155087489
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a8acd0542de9cb68131e0c49defa3404
+    Hash: 9bae638be67f98cf0434aa9ae7d0757f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52ab68c23438a04274f45c452eb552f2
+    Hash: 833cc72b2ea46263068fc85aa2513450
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a8acd0542de9cb68131e0c49defa3404
+    Hash: 9bae638be67f98cf0434aa9ae7d0757f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -248,9 +248,8 @@ Dependencies:
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_materials.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_perfab.bundle"
-- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_erbgameart_aaa
-  projectiles_materials.bundle
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_fonts_\u5B57\u4F53.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_fonts_\u5B57\u4F53_heiti.bundle"
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_scenes_ceshi.bundle
-- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_settings.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_settings_shiguang.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/share_assets_textmesh
+  pro_resources_fonts & materials.bundle

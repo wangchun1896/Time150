@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3847549884
+CRC: 3647180685
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5935ccf7bfd23be9ba125ec2e559ee00
+    Hash: 5d88241c62c63c10d11be8daeaeec2c4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 533ddedb5ba977670584d2c1db0f7fc3
+    Hash: 883544743a38c9822709974f4036d31b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5935ccf7bfd23be9ba125ec2e559ee00
+    Hash: 5d88241c62c63c10d11be8daeaeec2c4
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -21,6 +21,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 128
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.TextMeshPro
@@ -44,6 +46,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphRect
 Assets:
-- "Assets/Fonts/\u5B57\u4F53/msyh_SDF.asset"
+- "Assets/Fonts/\u5B57\u4F53/MiSans-Regular SDF.asset"
+- "Assets/Fonts/\u5B57\u4F53/MiSans-Regular.otf"
 Dependencies:
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/unityshaders.bundle

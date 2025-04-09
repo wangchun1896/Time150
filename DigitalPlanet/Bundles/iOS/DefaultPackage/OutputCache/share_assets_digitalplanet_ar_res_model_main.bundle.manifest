@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3349505004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dadc793a036336b8e28842ef521653b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dadc793a036336b8e28842ef521653b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Model/Main/diqiu.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Main/huoxing.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Main/qipao02.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Main/qipao01.FBX
+- Assets/DigitalPlanet.AR/Res/Model/Main/qipao03.FBX
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_main_materials.bundle

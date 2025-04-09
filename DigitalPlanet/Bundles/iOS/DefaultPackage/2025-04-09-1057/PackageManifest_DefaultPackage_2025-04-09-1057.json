@@ -1,0 +1,509 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": false,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-04-09-1057",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Scenes/Init.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/ARScene.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/MainScene.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/MyShaderVariants.shadervariants",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_digitalplanet_ar_digitalplanetbundles_scenes.bundle",
+            "UnityCRC": 304002258,
+            "FileHash": "82df6f80254d1f3bfa352ef796ca331a",
+            "FileCRC": "eb36f2ef",
+            "FileSize": 91421,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                4
+            ]
+        },
+        {
+            "BundleName": "assets_digitalplanet_ar_digitalplanetbundles_prefabs_arscene.bundle",
+            "UnityCRC": 4218082454,
+            "FileHash": "d9284a00bc1078fc9175950a89ca91d3",
+            "FileCRC": "07329af7",
+            "FileSize": 17468,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                6,
+                8,
+                9,
+                11,
+                10,
+                25,
+                16,
+                5,
+                3
+            ]
+        },
+        {
+            "BundleName": "assets_digitalplanet_ar_digitalplanetbundles_prefabs_mainscene.bundle",
+            "UnityCRC": 3866385214,
+            "FileHash": "bc1468f1fbb7f6e6118f5cce5e266af0",
+            "FileCRC": "921ea48d",
+            "FileSize": 141877,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                31,
+                24,
+                28,
+                11,
+                23,
+                10,
+                19,
+                15,
+                17,
+                18,
+                12,
+                29,
+                25,
+                20,
+                16,
+                13,
+                30,
+                27,
+                26,
+                32,
+                22,
+                21,
+                3
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 3695796109,
+            "FileHash": "96fda3a985df159c9d67657010ef6c8e",
+            "FileCRC": "d24dab5b",
+            "FileSize": 6945286,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture.bundle",
+            "UnityCRC": 3381325603,
+            "FileHash": "24fa7c16b9edc7c4eb8524bda38e992b",
+            "FileCRC": "18e32c37",
+            "FileSize": 978186,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_scenes_time.bundle",
+            "UnityCRC": 3060459336,
+            "FileHash": "23dab1131a545c9f6a0654f139853e5a",
+            "FileCRC": "4d37f696",
+            "FileSize": 3821,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_capsule.bundle",
+            "UnityCRC": 3740621454,
+            "FileHash": "2f7345d7db8733a211cd7c70bbc22aed",
+            "FileCRC": "0ac78b80",
+            "FileSize": 56020,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                8,
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_core_editor_volume_icons.bundle",
+            "UnityCRC": 2608929761,
+            "FileHash": "cea10626d67d84d7ae9905a631ca2589",
+            "FileCRC": "c1a47269",
+            "FileSize": 63156,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_capsule_materials.bundle",
+            "UnityCRC": 2481336795,
+            "FileHash": "868397a1648da9f69dfb457ff38261dc",
+            "FileCRC": "6391b1e1",
+            "FileSize": 536518,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_capsule_perfab.bundle",
+            "UnityCRC": 481850994,
+            "FileHash": "c1ef4679608353a16fe4b67d7f5a2bfe",
+            "FileCRC": "716d56bf",
+            "FileSize": 3610,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                6,
+                8,
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_star_materials.bundle",
+            "UnityCRC": 1013725829,
+            "FileHash": "0855121c72e9e3d695bb0b11cdc8768a",
+            "FileCRC": "ea51ba09",
+            "FileSize": 4314118,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_main_materials.bundle",
+            "UnityCRC": 3367173419,
+            "FileHash": "14756650d003afefafc9d02ac86329a5",
+            "FileCRC": "9259fba3",
+            "FileSize": 3751782,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui_轮盘.bundle",
+            "UnityCRC": 2315644998,
+            "FileHash": "db78d0cbc55f05e94af1a0052a471a86",
+            "FileCRC": "3964861f",
+            "FileSize": 61865,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_符号.bundle",
+            "UnityCRC": 1705784599,
+            "FileHash": "1e6c75645e68e1cf3e01d07a32b1c65a",
+            "FileCRC": "48b2d408",
+            "FileSize": 25963,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_packages_com_unity_textmeshpro_editor resources_gizmos.bundle",
+            "UnityCRC": 3995279578,
+            "FileHash": "8dcdbf3ed30e9dd678e13c5eb308b190",
+            "FileCRC": "37143c3b",
+            "FileSize": 6941,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_prafebs_main时光故事.bundle",
+            "UnityCRC": 1822980893,
+            "FileHash": "d8a9c1379b26eb5e177917edbea5119b",
+            "FileCRC": "a2323ac2",
+            "FileSize": 300895,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                24,
+                11,
+                10,
+                17,
+                18,
+                25,
+                20,
+                16,
+                30,
+                32,
+                22,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_星座页.bundle",
+            "UnityCRC": 2637552318,
+            "FileHash": "c05ea876f7396c4346f6ade5e960db8f",
+            "FileCRC": "c3873ed4",
+            "FileSize": 700988,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_sprits_主场景ui.bundle",
+            "UnityCRC": 1794136018,
+            "FileHash": "d3afdaad5aa72af63fc5b2e4c2e4284c",
+            "FileCRC": "774adad2",
+            "FileSize": 374889,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_sprits_星座场景ui.bundle",
+            "UnityCRC": 3256073298,
+            "FileHash": "81d4a315c6c6b46a8a53af834648c494",
+            "FileCRC": "97634f6d",
+            "FileSize": 59538,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_star_perfab.bundle",
+            "UnityCRC": 3508120760,
+            "FileHash": "9661f43de11f71e4c0d92be6d3610357",
+            "FileCRC": "ca8863c3",
+            "FileSize": 3093,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                23,
+                10,
+                25,
+                16,
+                21,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_占位.bundle",
+            "UnityCRC": 3908839376,
+            "FileHash": "e849dc9aea38199e5348d0bcfcd7c7e0",
+            "FileCRC": "616b36af",
+            "FileSize": 4987,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "UnityCRC": 1355021609,
+            "FileHash": "36e6e03a5ca5fde4a4b0f419cdeae90c",
+            "FileCRC": "18d7a599",
+            "FileSize": 2324,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
+            "UnityCRC": 1292674228,
+            "FileHash": "c95ad8267929a3d1a430f5e06b7280af",
+            "FileCRC": "8b83abb7",
+            "FileSize": 373487,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                32,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_star.bundle",
+            "UnityCRC": 2704338260,
+            "FileHash": "f6f03d46412ffcef90742ad9b82246be",
+            "FileCRC": "e64c9442",
+            "FileSize": 35537,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                21,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_materials_core.bundle",
+            "UnityCRC": 1193140248,
+            "FileHash": "67435d80e5a2820eb9a663fd26962845",
+            "FileCRC": "16417f60",
+            "FileSize": 3494,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_texture_主页面.bundle",
+            "UnityCRC": 2433668548,
+            "FileHash": "d08ae34cc2ea797dea2197a6ec5f6ee8",
+            "FileCRC": "58266b96",
+            "FileSize": 90365,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_settings_shiguang.bundle",
+            "UnityCRC": 1915137706,
+            "FileHash": "1a00f3d9618153d0239fb2d346b18e36",
+            "FileCRC": "a5657473",
+            "FileSize": 3838,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_scenes_ceshi.bundle",
+            "UnityCRC": 4243252540,
+            "FileHash": "e2118e55e9c8211c4715efad0408d5b2",
+            "FileCRC": "1d46aa19",
+            "FileSize": 4173,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_model_main.bundle",
+            "UnityCRC": 3349505004,
+            "FileHash": "ef80b42ead1e8575a7d10ce9f573682d",
+            "FileCRC": "24767901",
+            "FileSize": 105550,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_sprite_tex.bundle",
+            "UnityCRC": 4266657700,
+            "FileHash": "a4b35bf55686cb15234fa99884116a9a",
+            "FileCRC": "55defbf6",
+            "FileSize": 13505,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "share_assets_fonts_字体.bundle",
+            "UnityCRC": 3409615893,
+            "FileHash": "08ab811794babd7feb535bc5277331d3",
+            "FileCRC": "8584e05b",
+            "FileSize": 8312573,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_digitalplanet_ar_res_materials_circlemask.bundle",
+            "UnityCRC": 3263221663,
+            "FileHash": "0992777996a281ce466a14412c2ef464",
+            "FileCRC": "d7e31d34",
+            "FileSize": 2410,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                11,
+                10,
+                25,
+                16,
+                3
+            ]
+        },
+        {
+            "BundleName": "share_assets_textmesh pro_fonts.bundle",
+            "UnityCRC": 2257686530,
+            "FileHash": "33e597bdbe63b8f046f1eadfd4314add",
+            "FileCRC": "601031d2",
+            "FileSize": 227268,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

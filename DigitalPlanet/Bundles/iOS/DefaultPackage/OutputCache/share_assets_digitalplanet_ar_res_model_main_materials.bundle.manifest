@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3367173419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c2153d71422ce4be70bfe20e4b1df85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b90360021f95c293bf3f1bef88434a62
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c2153d71422ce4be70bfe20e4b1df85
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/huoxing_B.jpg
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/diqiu_B.jpg
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/65465.png
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/huoxing.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/star.png
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/00.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/zhubeijing.png
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/Shader Graphs_zhushanshuo.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/zhubeijingxing.png
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/star.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/star02.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/diqiu.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/qipao01.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/chuansongmen 1.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/jinniu.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/qipao01_B.png
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/huoxing_N.jpg
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/qipao02.mat
+- Assets/DigitalPlanet.AR/Res/Model/Main/Materials/chuansongmen02.mat
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_star_materials.bundle
+- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_texture_\u4E3B\u9875\u9762.bundle"
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/unityshaders.bundle

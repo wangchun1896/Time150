@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2481336795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d048bd63c07e0919f26d7b2a11afebb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4d048bd63c07e0919f26d7b2a11afebb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Model/Capsule/Materials/jiaonang_03.mat
+- Assets/DigitalPlanet.AR/Res/Model/Capsule/Materials/jiaonang03_B.png
+- Assets/DigitalPlanet.AR/Res/Model/Capsule/Materials/jiaonang03_M.png
+- Assets/DigitalPlanet.AR/Res/Model/Capsule/Materials/jiaonang03_E.png
+- Assets/DigitalPlanet.AR/Res/Model/Capsule/Materials/jiaonang03_N.png
+- Assets/DigitalPlanet.AR/Res/Model/Capsule/Materials/jiaonang_04.mat
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/unityshaders.bundle

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2637552318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 545e5ac6cf1b4ce29f2502a32b2401d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 545e5ac6cf1b4ce29f2502a32b2401d6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u53CC\u9C7C\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u72EE\u5B50\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u5DE8\u87F9\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u6C34\u74F6\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u767D\u7F8A\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u91D1\u725B\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u6469\u7FAF\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u5904\u5973\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u5929\u79E4\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u53CC\u5B50\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u5C04\u624B\u5EA702.png"
+- "Assets/DigitalPlanet.AR/Res/Texture/\u661F\u5EA7\u9875/\u5929\u874E\u5EA702.png"
+Dependencies: []

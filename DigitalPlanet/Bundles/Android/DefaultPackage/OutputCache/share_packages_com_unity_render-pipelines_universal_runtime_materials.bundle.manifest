@@ -1,23 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3834911232
+CRC: 3707786120
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5e6c3627867eb0ec50b6b671ae6396b8
+    Hash: 20bd1d6052d5ee2db7472766c2445804
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+    Hash: 940b1b260c757af7ca49fdfd446b944b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5e6c3627867eb0ec50b6b671ae6396b8
+    Hash: 20bd1d6052d5ee2db7472766c2445804
 HashAppended: 0
 ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
-- Class: 48
-  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
-Dependencies:
-- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/Android/DefaultPackage/OutputCache/unityshaders.bundle
+Dependencies: []

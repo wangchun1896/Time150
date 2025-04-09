@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4097895607
+CRC: 3478895404
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 45c2fb3fb7a4b34cbbb480853f275adb
+    Hash: 421795797533569c40a4d11b384aa846
   TypeTreeHash:
     serializedVersion: 2
     Hash: b30fce1a9ad74efb72be6c308c56e365
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 45c2fb3fb7a4b34cbbb480853f275adb
+    Hash: 421795797533569c40a4d11b384aa846
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,7 +25,6 @@ Assets:
 - Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader
 - Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
 - "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/Materials/shikongjiaonang.shadergraph"
-- Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
 - "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/Materials/zhushanshuo.shadergraph"
 - "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u4E3B\u754C\u9762/Materials/star.shadergraph"
 - "Assets/DigitalPlanet.AR/Res/\u6A21\u578B/\u661F\u5EA7\u573A\u666F/Materials/qipaoqiu.shadergraph"

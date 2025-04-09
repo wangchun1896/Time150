@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1193140248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42e48ab26be27188c0d2d5ac06986f5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 42e48ab26be27188c0d2d5ac06986f5b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DigitalPlanet.AR/Res/Materials/Core/Trail22cg.mat
+- Assets/DigitalPlanet.AR/Res/Materials/Core/Dagger2bcg.mat
+- Assets/DigitalPlanet.AR/Res/Materials/Core/New Material.mat
+Dependencies:
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/iOS/DefaultPackage/OutputCache/unityshaders.bundle

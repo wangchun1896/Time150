@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4266657700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14ca991c67cc0513c0b48857f15efcb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 14ca991c67cc0513c0b48857f15efcb8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/DigitalPlanet.AR/Res/Sprite/Tex/\u5934\u50CF98x98.png"
+- "Assets/DigitalPlanet.AR/Res/Sprite/Tex/\u5934\u50CF36X36.png"
+Dependencies: []

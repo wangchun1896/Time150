@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2319802052
+CRC: 3429267037
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e75bc89948650e0ee8dbb179454f2b31
+    Hash: f681fba771794a9cedbcd740d260828f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: df804f5ce5d0be75bed05a13099c936f
+    Hash: 28fa4251a8dd85bdbc36ebb97af7cebc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e75bc89948650e0ee8dbb179454f2b31
+    Hash: f681fba771794a9cedbcd740d260828f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -100,5 +100,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/DigitalPlanet.AR/DigitalPlanetBundles/Prefabs/ARScene.prefab
 Dependencies:
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u80F6\u56CA_perfab.bundle"
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_capsule_perfab.bundle
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_scenes_time.bundle

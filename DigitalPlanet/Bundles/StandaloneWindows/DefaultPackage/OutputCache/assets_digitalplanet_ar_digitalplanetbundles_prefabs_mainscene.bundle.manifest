@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 294206134
+CRC: 2832389508
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be5b2e6fcde1da6133834d377819fd67
+    Hash: 8c2674033a94f39001fd079ab4d64541
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9bc52e1750eb83e2aabf2453e4ab7859
+    Hash: 833cc72b2ea46263068fc85aa2513450
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: be5b2e6fcde1da6133834d377819fd67
+    Hash: 8c2674033a94f39001fd079ab4d64541
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -234,6 +234,11 @@ Assets:
 Dependencies:
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_materials_circlemask.bundle
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_materials_core.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_main.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_main_materials.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_star.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_star_materials.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_model_star_perfab.bundle
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_prafebs_main\u65F6\u5149\u6545\u4E8B.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_sprite_sprits_\u4E3B\u573A\u666Fui.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_sprite_sprits_\u661F\u5EA7\u573A\u666Fui.bundle"
@@ -243,12 +248,8 @@ Dependencies:
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_texture_\u5360\u4F4D.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_texture_\u661F\u5EA7\u9875.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_texture_\u7B26\u53F7.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u4E3B\u754C\u9762.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u4E3B\u754C\u9762_materials.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_materials.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_digitalplanet_ar_res_\u6A21\u578B_\u661F\u5EA7\u573A\u666F_perfab.bundle"
 - "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_fonts_\u5B57\u4F53.bundle"
-- "D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_fonts_\u5B57\u4F53_heiti.bundle"
 - D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_scenes_ceshi.bundle
-- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_settings.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_settings_shiguang.bundle
+- D:/Awork/UnityProjects/Time150_GitHub/DigitalPlanet/Bundles/StandaloneWindows/DefaultPackage/OutputCache/share_assets_textmesh
+  pro_resources_fonts & materials.bundle
